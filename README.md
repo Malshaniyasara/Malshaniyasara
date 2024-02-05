@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **nodejs**
 
-- 💬 Ask me about **C++,HTML,Css,Reactjs,javascript,php,java,Bootstrap,wordpress,figma**
+- 💬 Ask me about **C++,HTML,Css,Reactjs,javascript,php,java,Bootstrap,wordpress,figma,Laravel**
 
 - 📫 How to reach me **yasaramalshani@gmail.com**
 
